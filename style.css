@@ -111,4 +111,12 @@
             
             }
 
-            .logo_rodape
+            .logo_rodape{
+              height: 80px;
+              padding: 12px 0;
+            }
+
+            .link{
+              color: #ffffff;
+              text-decoration: nome;
+            }
