@@ -10,7 +10,7 @@
     
     header{
     background-color: #05f0e4;
-    color: rgb(50, 52, 163);
+    color: rgb(255, 255, 255);
     width: 100%;
     padding: 20px;
     
@@ -79,7 +79,7 @@
 
         .escola{
             background-image: linear-gradient(#40A2E3,#7FC2EF);
-            color: white;
+            color: rgb(0, 247, 255);
             display: flex;
             justify-content:center;
             padding: 24px 0;
